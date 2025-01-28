@@ -8,7 +8,3 @@ Fun fact:I'm a first-year Computer Science student at MS Ramaiah Institute of Ap
 
 
 
-<---
-Anushkarshetty45/Anushkarshetty45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
